@@ -1,0 +1,33 @@
+c:\users\ryan\documents\visual studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+c:\users\ryan\documents\visual studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+c:\users\ryan\documents\visual studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+c:\users\ryan\documents\visual studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+c:\users\ryan\documents\visual studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+c:\users\ryan\documents\visual studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+c:\users\ryan\documents\visual studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+c:\users\ryan\documents\visual studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+c:\users\ryan\documents\visual studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+c:\users\ryan\documents\visual studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+c:\users\ryan\documents\visual studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+c:\users\ryan\documents\visual studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Game1.exe
+c:\users\ryan\documents\visual studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Game1.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+c:\users\ryan\documents\visual studio 2015\Projects\Game1\Game1\obj\Debug\Game1.exe
+c:\users\ryan\documents\visual studio 2015\Projects\Game1\Game1\obj\Debug\Game1.pdb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Game1\Game1\obj\Debug\Game1.csprojAssemblyReference.cache
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Game1\Game1\obj\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Game1\Game1\obj\Debug\Game1.csproj.CopyComplete
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Priority Queue.dll
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Priority Queue.pdb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Priority Queue.xml
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Content\Images\apple.xnb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Content\Images\applea.xnb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Content\Images\1.xnb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Content\Images\2.xnb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Content\Images\3.xnb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Content\Images\4.xnb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Content\Images\0.xnb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Content\Images\5.xnb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Content\Images\6.xnb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Content\Images\7.xnb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Content\Images\8.xnb
